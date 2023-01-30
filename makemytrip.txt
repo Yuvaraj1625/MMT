@@ -1,3 +1,7 @@
-Tc =1
-Tc =2
-Tc =3
+Tc 1
+Tc 2
+Tc 3
+
+Tc 6
+Tc 7
+Tc 8
