@@ -2,6 +2,6 @@ Tc 1
 Tc 2
 Tc 3
 
-Tc 6
-Tc 7
-Tc 8
+Tc 4  
+Tc 5
+
